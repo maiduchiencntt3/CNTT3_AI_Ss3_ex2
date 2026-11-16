@@ -1,0 +1,22 @@
+[
+  { "sentiment": "Positive", "topics": ["Product"], "score": 5, "summary": "Áo khoác chất lượng tốt, form đẹp chuẩn ảnh" },
+  { "sentiment": "Negative", "topics": ["Delivery", "Product"], "score": 2, "summary": "Giao nhanh nhưng bình giữ nhiệt bị móp" },
+  { "sentiment": "Negative", "topics": ["System"], "score": 1, "summary": "App bị văng ở bước thanh toán ví điện tử" },
+  { "sentiment": "Neutral", "topics": ["Product", "Delivery"], "score": 3, "summary": "Sản phẩm tạm ổn, giao hàng đúng dự kiến" },
+  { "sentiment": "Positive", "topics": ["Product", "Delivery", "Service"], "score": 5, "summary": "Dịch vụ, sản phẩm và shipper đều tuyệt vời" },
+  { "sentiment": "Negative", "topics": ["Service"], "score": 1, "summary": "Nhân viên rep chậm, cộc lốc, thiếu tôn trọng" },
+  { "sentiment": "Negative", "topics": ["Delivery", "Product"], "score": 1, "summary": "Giao trễ, nhận nhầm hàng (cục gạch)" },
+  { "sentiment": "Neutral", "topics": ["System"], "score": 3, "summary": "Giao diện app lạ, dùng quen sẽ thấy bình thường" },
+  { "sentiment": "Invalid", "topics": [], "score": 0, "summary": "Dữ liệu rác chứa ký tự đặc biệt" },
+  { "sentiment": "Invalid", "topics": [], "score": 0, "summary": "Phản hồi trống" },
+  { "sentiment": "Negative", "topics": ["Product", "Service"], "score": 1, "summary": "Nồi chiên hỏng, tổng đài hỗ trợ chậm trễ" },
+  { "sentiment": "Positive", "topics": ["Delivery"], "score": 5, "summary": "Shipper dễ thương, giao hàng tận tay mùa mưa" },
+  { "sentiment": "Negative", "topics": ["System", "Service"], "score": 1, "summary": "Hệ thống tự hủy đơn, CSKH đổ lỗi mạng" },
+  { "sentiment": "Positive", "topics": ["Product", "System"], "score": 5, "summary": "Tính năng tìm kiếm hình ảnh nhạy, hàng chính hãng" },
+  { "sentiment": "Neutral", "topics": ["Service"], "score": 4, "summary": "Nhân viên hướng dẫn điền hóa đơn nhiệt tình" },
+  { "sentiment": "Negative", "topics": ["Delivery"], "score": 1, "summary": "Shipper tự ý bấm giao thành công rồi văng hàng" },
+  { "sentiment": "Positive", "topics": ["Product"], "score": 5, "summary": "Kem dưỡng ẩm thấm nhanh, đáng tiền" },
+  { "sentiment": "Neutral", "topics": ["Product", "Delivery"], "score": 3, "summary": "Sách đẹp nhưng vận chuyển ngâm hàng lâu" },
+  { "sentiment": "Negative", "topics": ["System", "Product"], "score": 1, "summary": "Báo còn hàng nhưng giao nhầm màu và hết hàng" },
+  { "sentiment": "Invalid", "topics": [], "score": 0, "summary": "Phản hồi chỉ chứa dấu chấm" }
+]
